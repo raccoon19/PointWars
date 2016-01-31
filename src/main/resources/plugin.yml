@@ -1,0 +1,7 @@
+name: PointWars
+version: VERSION
+main: org.raccoon_dev.plugin.pointwars.PointWars
+
+commands:
+  pw:
+    description: PointWars main command.
